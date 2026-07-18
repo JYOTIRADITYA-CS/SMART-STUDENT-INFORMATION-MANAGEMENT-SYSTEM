@@ -1,0 +1,21 @@
+===========================================================
+ Sadguru Institute of Computer Studies - Academic Assignment
+ Assignment: BCA Assignment 1: C Control Structures & Loops
+ Subject Topic: C Control Structures & Loops
+===========================================================
+
+Please solve the following 5 questions in detail:
+
+Q1. Write a brief overview explaining the core concepts of 'C Control Structures & Loops'. What are its primary goals and objectives?
+
+Q2. Describe the architecture, design principles, or structural components associated with 'C Control Structures & Loops'.
+
+Q3. Write a practical code snippet, diagram layout, or detailed workflow showing how 'C Control Structures & Loops' is applied in real-world scenarios.
+
+Q4. What are the key advantages, common limitations, or industry best practices when working with 'C Control Structures & Loops'?
+
+Q5. Practical Lab Challenge: Provide a step-by-step solution to address the following problem statement:
+    "Write programs to print Fibonacci sequence, check prime numbers, and reverse an integer using C language."
+
+-----------------------------------------------------------
+Submission Guidelines: Save your solutions in plain text (.txt) or PDF format and upload them via the SSIMS student dashboard before the deadline.

@@ -1,0 +1,18 @@
+===========================================================
+ Sadguru Institute of Computer Studies - Study Material
+ Title: Android Application Development
+ Course Class: MCA-II | Subject: Android
+===========================================================
+
+REFERENCE OVERVIEW:
+This reference study sheet covers the core principles of Android Application Development.
+Description: Introduction to Android Studio, Gradle dependencies, and layout designers.
+
+KEY TOPICS & STUDY NOTES:
+1. Foundational principles of Android.
+2. Practical code syntax, system configurations, and setup guidelines.
+3. Common design patterns, architectures, and optimization strategies.
+4. Recommended laboratory exercises for practice.
+
+Best of luck with your semester preparations!
+- Sadguru Institute Faculty Team.

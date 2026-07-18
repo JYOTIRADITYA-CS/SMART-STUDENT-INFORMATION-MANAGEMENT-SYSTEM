@@ -1,0 +1,18 @@
+===========================================================
+ Sadguru Institute of Computer Studies - Study Material
+ Title: Web Services & API Design using PHP
+ Course Class: MCA-II | Subject: PHP
+===========================================================
+
+REFERENCE OVERVIEW:
+This reference study sheet covers the core principles of Web Services & API Design using PHP.
+Description: Constructing JSON response endpoints and RESTful web API configurations in PHP.
+
+KEY TOPICS & STUDY NOTES:
+1. Foundational principles of PHP.
+2. Practical code syntax, system configurations, and setup guidelines.
+3. Common design patterns, architectures, and optimization strategies.
+4. Recommended laboratory exercises for practice.
+
+Best of luck with your semester preparations!
+- Sadguru Institute Faculty Team.

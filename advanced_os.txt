@@ -1,0 +1,18 @@
+===========================================================
+ Sadguru Institute of Computer Studies - Study Material
+ Title: Advanced Operating Systems & Kernel Design
+ Course Class: M.Tech | Subject: Operating System
+===========================================================
+
+REFERENCE OVERVIEW:
+This reference study sheet covers the core principles of Advanced Operating Systems & Kernel Design.
+Description: Process scheduling algorithms, memory management, kernel modules, and device drivers.
+
+KEY TOPICS & STUDY NOTES:
+1. Foundational principles of Operating System.
+2. Practical code syntax, system configurations, and setup guidelines.
+3. Common design patterns, architectures, and optimization strategies.
+4. Recommended laboratory exercises for practice.
+
+Best of luck with your semester preparations!
+- Sadguru Institute Faculty Team.

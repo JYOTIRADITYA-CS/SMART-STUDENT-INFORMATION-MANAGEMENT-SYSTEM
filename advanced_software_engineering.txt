@@ -1,0 +1,18 @@
+===========================================================
+ Sadguru Institute of Computer Studies - Study Material
+ Title: Advanced Software Engineering Principles
+ Course Class: M.Tech | Subject: Software Engineering
+===========================================================
+
+REFERENCE OVERVIEW:
+This reference study sheet covers the core principles of Advanced Software Engineering Principles.
+Description: Architectural design patterns, UML modeling, refactoring, and code analysis.
+
+KEY TOPICS & STUDY NOTES:
+1. Foundational principles of Software Engineering.
+2. Practical code syntax, system configurations, and setup guidelines.
+3. Common design patterns, architectures, and optimization strategies.
+4. Recommended laboratory exercises for practice.
+
+Best of luck with your semester preparations!
+- Sadguru Institute Faculty Team.
